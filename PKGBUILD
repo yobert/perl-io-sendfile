@@ -1,3 +1,4 @@
+# Maintainer: Joel Jensen <yobert@gmail.com>
 pkgname='perl-io-sendfile'
 pkgver='0.01'
 pkgrel='1'
